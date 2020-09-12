@@ -19,7 +19,7 @@
     "graphql-request": "^1.8.2",
     "graphql-validation-complexity": "^0.2.5",
     "mongodb": "^3.4.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "nodemon": "^2.0.2"
   }
 }
